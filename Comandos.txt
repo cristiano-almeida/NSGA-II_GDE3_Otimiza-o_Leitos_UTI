@@ -1,0 +1,10 @@
+Ação				Windows (cmd/PowerShell)	macOS / Linux (bash/zsh)
+1. Navegar até a pasta		cd caminho\para\projeto		cd caminho/para/projeto
+2. Criar o venv			python -m venv .venv		python3 -m venv .venv
+3. Ativar o venv		.venv\Scripts\activate		source .venv/bin/activate
+4. Instalar pacotes		pip install <pacote>		pip install <pacote>
+5. Desativar o venv		deactivate			deactivate
+
+
+pip install -r requirements_NSGA-II.txt
+pip install -r requirements_GDE3.txt

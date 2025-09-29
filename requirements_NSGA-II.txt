@@ -1,0 +1,11 @@
+# Arquivo: requirements.txt
+
+# Core de computação científica e manipulação de dados
+numpy
+pandas
+
+# Visualização de dados
+matplotlib
+
+# Framework de otimização multiobjetivo
+pymoo
