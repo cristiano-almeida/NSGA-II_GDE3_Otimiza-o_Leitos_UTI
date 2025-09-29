@@ -1,2 +1,4 @@
 pip install -r requirements_NSGA-II.txt
 pip install -r requirements_GDE3.txt
+
+# Verificar "README.md"
